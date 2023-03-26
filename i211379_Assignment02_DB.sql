@@ -395,8 +395,7 @@ VALUES
 	(10016, 16),
 	(10017, 17),
 	(10018, 18),
-	(10019, 19),
-	(NULL, 20);
+	(10019, 19);
 
 INSERT INTO FLIES (Pilot_Ssn, Model)
 VALUES 
