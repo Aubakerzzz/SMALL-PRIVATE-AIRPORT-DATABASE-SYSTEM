@@ -4,7 +4,7 @@ Question 01:
         The EER diagram for a small private airport database includes additional features beyond the basic ER diagram, including subtypes and super-types, specialization, and generalization. One example of this is the relationship between OWNER and its subtypes, PERSON and CORPORATION, which allows for more specific and detailed information to be stored and retrieved. PILOT and EMPLOYEE are subtypes of PERSON, demonstrating specialization, while PLANE_TYPE and HANGAR share the attribute of capacity, indicating generalization. The EER diagram also includes relationships such as FLIES and WORKS_ON, indicating the types of planes each pilot and employee can work with respectively. Additionally, the relationship between AIRPLANE and SERVICE is expanded to include the PLANE_SERVICE entity, allowing for multiple service records to be associated with each airplane. Overall, the EER diagram provides a comprehensive understanding of the entities and relationships involved, allowing for efficient management of the airport's operations.
 </p>
 <p>
-        ![](https://github.com/Aubakerzzz/i211379_Assignment_2_DB/blob/main/Question%20_%2001%20Assignment%2002.png)
+        ![Question_01 Assignment 02](https://github.com/Aubakerzzz/i211379_Assignment_2_DB/blob/main/Question%20_%2001%20Assignment%2002.png)
 </p>
 <p>
 Question 02:
